@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hello-world-erinf13",
+			"path": "../Projects/hello-world-erinf13"
+		},
+		{
+			"path": "../Homework"
+		},
+		{
+			"name": "dataset-and-question-erinf13",
+			"path": "../Projects/dataset-and-question-erinf13"
+		},
+		{
+			"name": "basic-stats-erinf13",
+			"path": "../Projects/basic-stats-erinf13"
+		}
+	],
+	"settings": {}
+}
