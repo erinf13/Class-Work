@@ -17,6 +17,17 @@
 		{
 			"name": "basic-stats-erinf13",
 			"path": "../Projects/basic-stats-erinf13"
+		},
+		{
+			"path": "../Projects/variable-stats-and-visualizations-erinf13-2"
+		},
+		{
+			"name": "final-project-erinf13",
+			"path": "../Projects/final-project-erinf13"
+		},
+		{
+			"name": "process-paper-erinf13",
+			"path": "../Projects/process-paper-erinf13"
 		}
 	],
 	"settings": {}
